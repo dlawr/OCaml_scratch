@@ -1,0 +1,5 @@
+"Rule: ocaml: cmx* & o* -> native (%=my_prog )": "\012\133o\252\025\195\157\241\197\020\230\161$\235-v"
+"Rule: ocaml dependencies ml (%=my_prog )": "w\bE\206/\217\022I\018\166\206E-\135\007\209"
+"Resource: /home/dan/generalassembly/scratch/OCaml_scratch/my_prog.ml": "\129O\143\145\147\172\172hs\164\189vf\195\004\178"
+"Rule: ocaml: ml -> cmo & cmi (%=my_prog )": "\191|P\228\134\136\151\148\233\252\226R8\151'T"
+"Rule: ocaml: ml & cmi -> cmx & o (%=my_prog )": "/{\028\254Q~|\137\204y\134\138&\141\012\162"
